@@ -1,0 +1,30 @@
+= eliteProvision image:go-documentation-blue.svg[GoDoc, link="http://godoc.org/github.com/EliteSystems/eliteProvision", role="external", window="_blank"]
+Cédric LARA-MARTIL <git@cedric.laramartil.fr>, Christophe MARTY <git@chrismarty.fr>
+v0.1, May 2016: Documentation's review
+:authorinitials: @cLaraMartil & @chrismarty34
+:doctype: article
+:source-highlighter: coderay
+:imagesdir: documentation/images
+:icons:
+:toc:
+//:numbered:
+//:source-highlighter: pigments
+//:pdf-page-size: A4
+
+*eliteProvision* xxx
+
+== How to install
+[source, bash]
+----
+$ go get github.com/EliteSystems/eliteProvision
+----
+
+== Examples
+
+== Releases notes
+
+=== 0.1
+
+== Uml documentation
+
+image:classDiagram.png[Uml]

@@ -1,0 +1,23 @@
+@startuml
+
+' List entities with their notes -------------------------------------
+
+
+' List relationships -------------------------------------------------
+
+
+' Plant UML configuration --------------------------------------------
+
+title
+    EliteProvision Class Diagram
+endtitle
+
+legend center
+    EliteSystems&#169; 2016
+endlegend
+
+hide empty members
+hide empty fields
+hide empty methods
+
+@enduml
